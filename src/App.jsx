@@ -1,7 +1,7 @@
 // App.jsx
 import { Routes, Route, Link } from "react-router-dom";
-import Home from "./assets/pages/home";
-import Donate from "./assets/pages/donate";
+import Home from "./assets/pages/Home";
+import Donate from "./assets/pages/Donate";
 
 function App() {
   return (
